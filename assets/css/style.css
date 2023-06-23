@@ -78,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/*fixed error where margin was incorrect causing entire benefits section to be to far right on screen an error that i caused unexpectedly*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -92,6 +93,7 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+
 }
 
 .benefit-brand {
@@ -198,6 +200,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/*corrected footer from h2 to h3*/
+.footer h3 {
     font-size: 20px;
 }
